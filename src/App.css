@@ -1,7 +1,6 @@
-.App {
+ /* .App {
   text-align: center;
-}
-
+} 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +34,15 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.App{
+  text-align: center;
+}
+.Counter {
+  margin-bottom: 20px;
+}
+.btn{
+  padding: 5px;
+  margin-bottom: 20px;
+  margin-right: 25px;
 }
